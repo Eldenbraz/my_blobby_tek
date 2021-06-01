@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+6521acc11b2ac62c6a41e50b2f8ad3aa data/CMakeFiles/backgrounds_zip
+6521acc11b2ac62c6a41e50b2f8ad3aa data/CMakeFiles/gfx_zip
+6521acc11b2ac62c6a41e50b2f8ad3aa data/CMakeFiles/rules_zip
+6521acc11b2ac62c6a41e50b2f8ad3aa data/CMakeFiles/scripts_zip
+6521acc11b2ac62c6a41e50b2f8ad3aa data/CMakeFiles/sounds_zip
+3a64333714ca5ccae51f527caac61eae data/backgrounds.zip
+7609d502c1d9724bc25c57770113ae10 data/gfx.zip
+6db9a8d9da4b21c054f4b33deb61374a data/rules.zip
+367a644faaf40c14ced2fc2536d3cb6d data/scripts.zip
+74e245b053698b39dfe5a04af0183345 data/sounds.zip
