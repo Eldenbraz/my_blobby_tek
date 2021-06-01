@@ -1,4 +1,7 @@
-# Blobby Volley 2 [![Build Status](https://travis-ci.org/danielknobe/blobbyvolley2.svg?branch=master)](https://travis-ci.org/danielknobe/blobbyvolley2)
+# Blobby Volley but it's TEK-MADE [![Build Status](https://travis-ci.org/danielknobe/blobbyvolley2.svg?branch=master)](https://travis-ci.org/danielknobe/blobbyvolley2)
+
+IMPORTANT! Please note that i'm not the original creator of this game, i only modified the files myself. Original can be found here : https://github.com/danielknobe/blobbyvolley2
+
 **The head-to-head multiplayer ball game**
 
 ### Website
